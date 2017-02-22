@@ -30,6 +30,5 @@ int main(int argc, const char * argv[]) {
     }*/
     
     
-    /*Yan added on Feb 21, 2017*/
     
 }
